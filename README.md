@@ -1,9 +1,28 @@
-### ✨Welcome✨
+
+
+  ### ✨rongcho's GitHub✨
+
+- 🔭I'm working on the part. : S/W QA
+- 🌱 I’m currently learning : python
+- 🤔 I'm interested: Automation Test
+
+
+<div align="center">
+  
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rongcho&langs_count=10&layout=compact&theme=nightowl)](https://github.com/rongcho)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rongcho&theme=nightowl&show_icons=true)
+  
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rongcho&theme=nightowl&show_icons=true)
 
+
+
+</div>
+  
+  
+  
+  
 <!--
 **rongcho/rongcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
