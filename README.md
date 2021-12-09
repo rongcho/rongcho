@@ -2,9 +2,9 @@
 
   ### ✨rongcho's GitHub✨
 
-- 🔭I'm working on the part. : S/W QA
+- 🔭I'm working on the part : S/W QA
 - 🌱 I’m currently learning : python
-- 🤔 I'm interested: Automation Test
+- 🤔 I'm interested : Automation Test
 
 
 
